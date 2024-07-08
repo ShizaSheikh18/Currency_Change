@@ -1,0 +1,23 @@
+{
+  "name": "18_currency_changer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "currency_change": "currency.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shiza Sheikh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.11"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "description": ""
+}
